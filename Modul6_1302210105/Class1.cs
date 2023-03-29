@@ -52,7 +52,7 @@ namespace Modul6_1302210105
 
         public SayaTubeUser(string v)
         {
-            this.v = v;
+            this.username = username;
             this.uploadedVideo= new List<SayaTubeVideo>();
         }
 
